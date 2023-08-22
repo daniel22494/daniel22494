@@ -7,7 +7,7 @@
 - 🔭 &nbsp; I’m currently working on my next full-stack web app
 - 🌱 &nbsp; I’m currently learning Typescript, PHP, and Laravel 
 - 👯 &nbsp; I’m looking to collaborate on more open-source projects
-- 🎸 &nbsp; When I'm not coding: I love watching movies, playing video games with friends, and exercising! 
+- 🎸 &nbsp; When I'm not coding: I love watching movies, playing video games with friends, and working out! 
 
 ---
 <!--
